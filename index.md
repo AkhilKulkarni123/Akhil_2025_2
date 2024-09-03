@@ -1,7 +1,7 @@
 ---
 layout: base
-title: Course Descriptions
-description: An overview of Computer Science pathway at Del Norte High School
+title: Student Home
+description: Home Page
 author: Akhil
 image: /images/mario_animation.png
 hide: true
